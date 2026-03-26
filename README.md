@@ -12,7 +12,7 @@ This project demonstrates the implementation of the **MVVM (Model-View-ViewModel
 
 ## 🏗️ Architecture Overview
 
-<img src="https://github.com/user-attachments/assets/81979403-380b-4ca5-8a3b-0fc47c9eeb92" width="500"/>
+<img src="https://github.com/user-attachments/assets/81979403-380b-4ca5-8a3b-0fc47c9eeb92" width="800"/>
 
 
 ---
